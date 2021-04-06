@@ -9,8 +9,11 @@
       "remote-path": "WP2008/m-git.git",
       "config-repo": true
     },
-    "other_a": {
+    "document-style-guide": {
       "remote-path": "WP2008/document-style-guide"
+    },
+    "AnimationsDemo": {
+      "remote-path": "WP2008/AnimationsDemo"
     }
   }
 }
