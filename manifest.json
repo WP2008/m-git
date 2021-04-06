@@ -1,17 +1,16 @@
 {
-  "remote": "https://gitee.com/baidu",
+  "remote": "https://github.com",
   "version":1,
   "mgit-excluded": false,
   "dest": "Sources",
   "repositories": {
     "m-git": {
       "abs-dest": "m-git",
-      "remote": "https://github.com",
       "remote-path": "WP2008/m-git.git",
       "config-repo": true
     },
     "other_a": {
-      "remote-path": "DDParser"
+      "remote-path": "WP2008/document-style-guide"
     }
   }
 }
