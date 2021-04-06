@@ -10,10 +10,10 @@
       "config-repo": true
     },
     "document-style-guide": {
-      "remote-path": "WP2008/document-style-guide"
+      "remote-path": "WP2008/document-style-guide.git"
     },
     "AnimationsDemo": {
-      "remote-path": "WP2008/AnimationsDemo"
+      "remote-path": "WP2008/AnimationsDemo.git"
     }
   }
 }
